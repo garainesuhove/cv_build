@@ -1,1 +1,71 @@
-# Curriculum Vitae
+# **Curriculum Vitae**
+### **Garainesu William Hove**
+#### D12 The Met Royal Ascot, Milnerton, Cape Town
+#### +27 72 712 402
+#### garaihove@gmail.com
+
+## **EXPERIENCE**
+### **Yoco Technologies, South Africa** - _Business Intelligence Analyst_
+JULY 2016 - PRESENT
+My role revolves around making use of data to create dashboards and reports to articulate the
+current state of the business and insights as well as areas of concern. My day revolves around
+writing SQL queries in Periscope Data or Data Grip and creating visual insights on Tableau and
+cross-functional meetings to relaying findings and also get some understanding of what is
+happening across different teams.
+
+### **Yoco Technologies, South Africa** - _Finance, Data and Risk Analyst_
+APRIL 2016 - JUNE 2016
+Upon completion of my internship, I was offered a full time job as a finance, data and risk
+analyst. I was responsible for transaction risk monitoring, evaluation and modification of existing
+risk models in order to mitigate transaction risk. I became more involved in the KYC process of
+merchants and this was mainly through running credit checks, FICA verification as well as
+Member Alert To Control High-risk Merchants (MATCH) listings.
+
+### **Yoco Technologies, South Africa** - _Finance, Risk and Compliance Intern_
+SEPTEMBER 2015 - MARCH 2016
+I started my journey at Yoco Technologies, a FinTech start-up looking to provide tools for SME
+growth. I had the chance to assist in the development of risk exposure guidelines based on
+targeted merchant profiling as well as calibrating merchant and making use of algorithms to vet
+and monitor merchants. On top of that, I was part of the Risk and Compliance team that
+oversaw the overall risk of the entity and looked at how best to mitigate the risk the various
+segments of the entity are exposed to by liaised with the various other departments.
+
+## **EDUCATION**
+**University Of Cape Town, South Africa** - Masters of Commerce in Finance specialising
+in Investment Management
+January 2015 - December 2017
+
+**University Of Cape Town, South Africa** - _Bachelor of Commerce Honours specialising
+in Financial Analysis and Portfolio Management_
+January 2014 - January 2015
+
+**University Of Pretoria, South Africa** - _Bachelor of Commerce in Investment_
+Management
+January 2011 - December 2013
+
+**Chartered Institute Of Management Accountants (CIMA), United Kingdom** -
+_Certificate in Business Accounting_
+January 2014 - December 2014
+
+## **SKILLS**
+### Problem Solving and Goal Orientated
+As an BI analyst I have mastered the art of information gathering and research and being able
+to come up with proactive solutions to solve matters at hand based on the knowledge I
+acquired during my studies as well as from my peers.
+
+### **Communicating and Influencing**
+Due to the nature of my work I have built strong communication skills as I have to communicate
+and convey a message from the insights to different entities with the company through
+dashboards, reports and presentations.
+
+### **Self-management**
+Providing and communicating data and business insights to various entities within a company
+has helped build self-confidence, personal credibility, flexibility, adaptability and strong sense
+of personal accountability.
+## **Technical capabilities**
+- Experience with Tableau, R, Power BI, PostgreSQL ,Redshift SQL, Intercom, Slack, Zapier and Zendesk.
+### **INTERESTS**
+I enjoy travelling and learning about different cultures which has helped to shape and develop
+my strong cross cultural and interpersonal skills.
+
+## **REFERENCES ON REQUEST**
